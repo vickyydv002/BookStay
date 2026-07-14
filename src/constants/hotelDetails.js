@@ -22,6 +22,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 30,
+    "availableRooms": 13,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 17
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 21
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 25
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 15
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 19
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 23
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 13
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Overwater Villa",
+        "pricePerNight": 650,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 878,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 1170,
+        "maxGuests": 4
+      }
     ]
   },
   "2": {
@@ -48,6 +97,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 40,
+    "availableRooms": 10,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 30
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 16
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 22
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 27
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 32
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 19
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 24
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Deluxe King",
+        "pricePerNight": 320,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 432,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 576,
+        "maxGuests": 4
+      }
     ]
   },
   "3": {
@@ -75,6 +173,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 50,
+    "availableRooms": 27,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 23
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 29
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 36
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 42
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 26
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 32
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 39
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Mountain View",
+        "pricePerNight": 280,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 378,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 504,
+        "maxGuests": 4
+      }
     ]
   },
   "4": {
@@ -99,6 +246,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 60,
+    "availableRooms": 23,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 37
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 45
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 25
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 33
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 41
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 49
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 29
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Tatami Suite",
+        "pricePerNight": 210,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 284,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 378,
+        "maxGuests": 4
+      }
     ]
   },
   "5": {
@@ -124,6 +320,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 29,
+    "availableRooms": 6,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 23
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 13
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 17
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 29
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 25
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 15
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 19
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Riad Classic",
+        "pricePerNight": 150,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 203,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 270,
+        "maxGuests": 4
+      }
     ]
   },
   "6": {
@@ -150,6 +395,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 39,
+    "availableRooms": 19,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 20
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 25
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 30
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 17
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 22
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 27
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 32
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Eiffel Suite",
+        "pricePerNight": 500,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 675,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 900,
+        "maxGuests": 4
+      }
     ]
   },
   "7": {
@@ -177,6 +471,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 49,
+    "availableRooms": 16,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 33
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 39
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 23
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 29
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 36
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 20
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 26
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Jungle Villa",
+        "pricePerNight": 200,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 270,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 360,
+        "maxGuests": 4
+      }
     ]
   },
   "8": {
@@ -201,6 +544,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 59,
+    "availableRooms": 9,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 50
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 30
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 38
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 45
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 26
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 34
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 41
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Aurora Suite",
+        "pricePerNight": 350,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 473,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 630,
+        "maxGuests": 4
+      }
     ]
   },
   "9": {
@@ -226,6 +618,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 28,
+    "availableRooms": 13,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 15
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 19
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 23
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 13
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 17
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 21
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 11
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Royal Suite",
+        "pricePerNight": 900,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 1215,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 1620,
+        "maxGuests": 4
+      }
     ]
   },
   "10": {
@@ -252,6 +693,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 38,
+    "availableRooms": 11,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 27
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 32
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 20
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 38
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 30
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 17
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 22
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Caldera View",
+        "pricePerNight": 400,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 540,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 720,
+        "maxGuests": 4
+      }
     ]
   },
   "11": {
@@ -279,6 +769,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 48,
+    "availableRooms": 27,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 21
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 27
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 33
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 39
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 24
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 30
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 36
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Classic Double",
+        "pricePerNight": 270,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 365,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 486,
+        "maxGuests": 4
+      }
     ]
   },
   "12": {
@@ -303,6 +842,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 58,
+    "availableRooms": 23,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 35
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 42
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 23
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 31
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 38
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 46
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 27
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Capsule Plus",
+        "pricePerNight": 80,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 108,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 144,
+        "maxGuests": 4
+      }
     ]
   },
   "13": {
@@ -328,6 +916,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 27,
+    "availableRooms": 6,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 21
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 12
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 15
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 19
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 22
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 14
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 17
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Vineyard Suite",
+        "pricePerNight": 310,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 419,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 558,
+        "maxGuests": 4
+      }
     ]
   },
   "14": {
@@ -354,6 +991,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 37,
+    "availableRooms": 19,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 18
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 23
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 27
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 15
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 20
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 25
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 30
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Harbor View",
+        "pricePerNight": 230,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 311,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 414,
+        "maxGuests": 4
+      }
     ]
   },
   "15": {
@@ -381,6 +1067,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 47,
+    "availableRooms": 16,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 31
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 37
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 21
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 47
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 33
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 39
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 24
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Canopy Suite",
+        "pricePerNight": 190,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 257,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 342,
+        "maxGuests": 4
+      }
     ]
   },
   "16": {
@@ -405,6 +1140,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 57,
+    "availableRooms": 10,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 47
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 28
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 35
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 43
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 24
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 31
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 39
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Imperial Room",
+        "pricePerNight": 380,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 513,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 684,
+        "maxGuests": 4
+      }
     ]
   },
   "17": {
@@ -430,6 +1214,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 26,
+    "availableRooms": 12,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 14
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 17
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 21
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 12
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 15
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 19
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 22
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Sky Lounge",
+        "pricePerNight": 260,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 351,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 468,
+        "maxGuests": 4
+      }
     ]
   },
   "18": {
@@ -456,6 +1289,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 36,
+    "availableRooms": 11,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 25
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 30
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 18
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 23
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 27
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 15
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 20
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "City Terrace",
+        "pricePerNight": 170,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 230,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 306,
+        "maxGuests": 4
+      }
     ]
   },
   "19": {
@@ -483,6 +1365,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 46,
+    "availableRooms": 27,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 19
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 25
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 31
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 37
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 22
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 28
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 34
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Log Cabin",
+        "pricePerNight": 290,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 392,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 522,
+        "maxGuests": 4
+      }
     ]
   },
   "20": {
@@ -507,6 +1438,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 56,
+    "availableRooms": 24,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 32
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 40
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 47
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 56
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 36
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 43
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 25
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Infinity Suite",
+        "pricePerNight": 750,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 1013,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 1350,
+        "maxGuests": 4
+      }
     ]
   },
   "21": {
@@ -532,6 +1512,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 25,
+    "availableRooms": 6,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 19
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 11
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 14
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 17
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 20
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 12
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 15
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Canal View",
+        "pricePerNight": 220,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 297,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 396,
+        "maxGuests": 4
+      }
     ]
   },
   "22": {
@@ -558,6 +1587,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 35,
+    "availableRooms": 19,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 16
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 21
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 25
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 30
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 18
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 23
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 27
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Gothic Suite",
+        "pricePerNight": 160,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 216,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 288,
+        "maxGuests": 4
+      }
     ]
   },
   "23": {
@@ -585,6 +1663,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 45,
+    "availableRooms": 17,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 28
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 34
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 19
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 25
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 31
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 37
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 22
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Opera View",
+        "pricePerNight": 480,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 648,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 864,
+        "maxGuests": 4
+      }
     ]
   },
   "24": {
@@ -609,6 +1736,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 55,
+    "availableRooms": 11,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 44
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 26
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 33
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 40
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 22
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 29
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 36
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Riverfront",
+        "pricePerNight": 140,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 189,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 252,
+        "maxGuests": 4
+      }
     ]
   },
   "25": {
@@ -634,6 +1810,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 24,
+    "availableRooms": 12,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 12
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 15
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 18
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 24
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 14
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 17
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 20
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Minimalist Studio",
+        "pricePerNight": 130,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 176,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 234,
+        "maxGuests": 4
+      }
     ]
   },
   "26": {
@@ -660,6 +1885,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 34,
+    "availableRooms": 11,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 23
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 28
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 16
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 21
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 25
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 14
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 18
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Pyramid Suite",
+        "pricePerNight": 200,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 270,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 360,
+        "maxGuests": 4
+      }
     ]
   },
   "27": {
@@ -687,6 +1961,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 44,
+    "availableRooms": 7,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 37
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 23
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 29
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 34
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 20
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 26
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 31
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Artistic Loft",
+        "pricePerNight": 180,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 243,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 324,
+        "maxGuests": 4
+      }
     ]
   },
   "28": {
@@ -711,6 +2034,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 54,
+    "availableRooms": 24,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 30
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 37
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 44
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 26
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 33
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 41
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 23
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Bosphorus Suite",
+        "pricePerNight": 330,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 446,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 594,
+        "maxGuests": 4
+      }
     ]
   },
   "29": {
@@ -736,6 +2108,55 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 23,
+    "availableRooms": 6,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 17
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 9
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 12
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 15
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 18
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 11
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 14
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Beachfront King",
+        "pricePerNight": 240,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 324,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 432,
+        "maxGuests": 4
+      }
     ]
   },
   "30": {
@@ -762,9 +2183,58 @@ export const hotelDetailsById = {
       "https://i.pinimg.com/control1/1200x/2f/7b/97/2f7b97c0a076fcbad08903ae46d348a7.jpg",
       "https://i.pinimg.com/control1/1200x/b1/ef/d0/b1efd04e4de18bf93e953df443f9797b.jpg",
       "https://i.pinimg.com/1200x/6d/95/7e/6d957e3ace32fa4f98397da25fdb3ece.jpg"
+    ],
+    "totalRooms": 33,
+    "availableRooms": 18,
+    "roomsBookedByDate": [
+      {
+        "date": "2026-07-14",
+        "roomsBooked": 15
+      },
+      {
+        "date": "2026-07-15",
+        "roomsBooked": 19
+      },
+      {
+        "date": "2026-07-16",
+        "roomsBooked": 23
+      },
+      {
+        "date": "2026-07-17",
+        "roomsBooked": 33
+      },
+      {
+        "date": "2026-07-18",
+        "roomsBooked": 17
+      },
+      {
+        "date": "2026-07-19",
+        "roomsBooked": 21
+      },
+      {
+        "date": "2026-07-20",
+        "roomsBooked": 25
+      }
+    ],
+    "roomPricing": [
+      {
+        "type": "Designer Suite",
+        "pricePerNight": 600,
+        "maxGuests": 2
+      },
+      {
+        "type": "Deluxe Room",
+        "pricePerNight": 810,
+        "maxGuests": 3
+      },
+      {
+        "type": "Suite",
+        "pricePerNight": 1080,
+        "maxGuests": 4
+      }
     ]
   }
 };
 
 export const getHotelDetailsById = (hotelId) =>
-  hotelDetailsById[hotelId];
+  hotelDetailsById[String(hotelId)];

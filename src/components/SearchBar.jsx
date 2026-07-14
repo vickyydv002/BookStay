@@ -10,9 +10,7 @@ const SearchBar = props => {
         value={props.searchHotel}
         onChangeText={props.setSearchHotel}
       />
-      <Pressable onPress={props.handleSearch}>
-        <Text>Search</Text>
-      </Pressable>
+      
     </View>
   );
 };

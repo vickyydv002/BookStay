@@ -7,7 +7,7 @@ export const FILTER_OPTIONS = [
   {id: 'available', label: 'Available rooms only'},
   {id: 'rating_4_5', label: 'Rating 4.5+'},
   {id: 'rating_4_8', label: 'Rating 4.8+'},
-  {id: 'under_300', label: 'Under $300 / night'},
+  {id: 'under_300', label: 'Under ₹300 / night'},
 ];
 
 export const SORT_OPTIONS = [
