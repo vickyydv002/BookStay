@@ -1,5 +1,6 @@
 import {View, Text, StyleSheet, ImageBackground, Pressable} from 'react-native';
 import React from 'react';
+import Icon from 'react-native-vector-icons/Ionicons';
 
 const HotelCard = ({data, onPress}) => {
   return (
@@ -14,8 +15,9 @@ const HotelCard = ({data, onPress}) => {
           </Text>
           <View style={styles.ratingContainer}>
             <Text style={styles.rating}>{data.ratings}</Text>
-            <Text style={styles.ratingText}> from </Text>
-            <Text style={styles.ratingText}>{data.reviews}</Text>
+            <Icon name="star" size={14} color="#FBBF24" style={styles.star} />
+            <Text style={styles.ratingText}> by </Text>
+            <Text style={styles.ratingText}>{data.reviews} users </Text>
           </View>
         </View>
       </ImageBackground>
@@ -60,6 +62,10 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: 'bold',
     color: 'white',
+  },
+  star: {
+    marginLeft: 4,
+    marginRight: 2,
   },
   ratingText: {
     fontSize: 16,
